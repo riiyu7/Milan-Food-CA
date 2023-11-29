@@ -21,7 +21,7 @@ body {
 /* Header */
 
 header {
-    background-color: maroon;
+    background-color: white;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -30,14 +30,22 @@ header {
 
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
 h1 {
     font-family: 'cabin', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: maroon;
 }
 
 /* Main content */
 
 main {
-    background-color: white;
+    background-color: maroon;
     /* Make main element to adjust to surplus space between header and footer */
     flex: 1 0 auto;
 }
@@ -45,5 +53,5 @@ main {
 /* Footer */
 
 footer {
-    background-color: maroon;
+    background-color: white;
 }
