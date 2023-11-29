@@ -93,8 +93,18 @@ main {
 
 /* Footer */
 
-footer {
-    background-color: white;
+#social-media {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+#social-media i {
+    font-size: 160%;
+    padding: 5%;
+    color: #3a3a3a;
 }
 
 /* Media Query Tablets and larger (768px and up) */
