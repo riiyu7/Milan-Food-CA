@@ -21,7 +21,7 @@ body {
 /* Header */
 
 header {
-    background-color: white;
+    background-color: #ffffff;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -30,7 +30,6 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-
 }
 
 header a {
@@ -53,7 +52,7 @@ h1 {
 }
 
 #menu > li {
-    margin-bottom: 0.5em;
+    margin-bottom: 1em;
 }
 
 .active {
@@ -73,7 +72,7 @@ nav {
 }
 
 /* Nav Toggle */
-#nav-toggle:checked~nav {
+#nav-toggle:checked~nav{
     display: block;
 }
 
@@ -81,7 +80,7 @@ nav {
     display: none;
 }
 
-#nav-toggle-label {
+.nav-toggle-label {
     font-size: 2rem;
 }
 
@@ -91,10 +90,27 @@ main {
     background-color: maroon;
     /* Make main element to adjust to surplus space between header and footer */
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 /* Footer */
 
 footer {
     background-color: white;
+}
+
+/* Media Query Tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+        justify-content: space-between;
+    }
+    
+    #menu {
+        display: flex;
 }
