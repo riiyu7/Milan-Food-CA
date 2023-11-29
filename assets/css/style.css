@@ -24,6 +24,10 @@ header {
     background-color: maroon;
 }
 
+h1 {
+    font-family: 'cabin', sans-serif;
+}
+
 /* Main content */
 
 main {
