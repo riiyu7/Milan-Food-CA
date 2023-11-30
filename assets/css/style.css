@@ -106,7 +106,7 @@ main {
 
 /* Hero, Food Menu and Contact us Section */
 
-#hero, #food-menu, #contact-us {
+#hero, #food-menu {
     height: 600px;
     width: 100%;
     background: url("../images/spices.jpg") no-repeat center center/cover;
@@ -197,6 +197,7 @@ main {
     /* Overide the heading colour set in general style */
     color: #fafafa;
 }
+
 
 /* Footer */
 
