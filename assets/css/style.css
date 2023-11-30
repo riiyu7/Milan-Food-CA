@@ -18,6 +18,14 @@ body {
     color: #3a3a3a;
     font-family: 'cabin', sans-serif;
 }
+
+h1, h2, h3 {
+    font-family: 'cabin', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: maroon;
+}
+
 /* Header */
 
 header {
@@ -45,7 +53,7 @@ h1 {
 }
 
 #menu {
-    font-size: 100%;
+    font-size: 150%;
     letter-spacing: 2px;
     list-style-type: none
 
@@ -98,6 +106,24 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/spices.jpg") no-repeat center center/cover;
+    position: relative;
+}
+
+#cover-text {
+    /* Final rgba value sets the opacity so it is semi-transparent */
+    background-color: rgba(255, 213, 145, 0.8);
+    font-size: 110%;
+    position: absolute;
+    bottom: 30px;
+    width: 80%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+    
+}
+
+#cover-text > h2, #cover-text > h3 {
+    color: maroon;
 }
 
 /* Footer */
@@ -127,7 +153,7 @@ main {
         padding-right: 1rem;
         justify-content: space-between;
     }
-    
+
     #menu {
         display: flex;
 }
@@ -152,7 +178,15 @@ main {
     margin-top: 75px;
 }
 
+/* Hero */
+#cover-text {
+    width: 300px;
+    right: 50px;
 }
+
+}
+
+
 
 /* Large devices (laptops and desktops, 992px and up) */
 
