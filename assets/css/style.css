@@ -106,7 +106,7 @@ main {
 
 /* Hero, Food Menu and Contact us Section */
 
-#hero, #food-menu {
+#hero {
     height: 600px;
     width: 100%;
     background: url("../images/spices.jpg") no-repeat center center/cover;
@@ -130,7 +130,7 @@ main {
     color: maroon;
 }
 
-/* Why Us section */
+/* Why Us & Menu section */
 
 #background-on-owners {
     width: 90%;
@@ -279,7 +279,7 @@ main {
     right: 50px;
 }
 
-/* Why us section */
+/* Why us & Menu section */
 #reasons-1,
 #reasons-2 {
     display: flex;
