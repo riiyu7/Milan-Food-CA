@@ -171,6 +171,28 @@ main {
     justify-content: center;
 }
 
+/* Services section */
+#services {
+    background: url('../images/indian-food-banner.jpg') no-repeat center/cover;
+    /* Handles responsivity without the need for a media query */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#services div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    padding: 50px;
+    text-align: center;
+    flex-basis: 200px;
+    flex-grow: 1;
+    border: 2px solid white;
+}
+
+#services h3 {
+    /* Overide the heading colour set in general style */
+    color: #fafafa;
+}
 
 /* Footer */
 
