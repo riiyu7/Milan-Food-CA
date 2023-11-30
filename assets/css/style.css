@@ -201,7 +201,7 @@ main {
 /* Contact Us & Additional info */
 
 #contact {
-    background: url('../images/solid-grey-ew5fya1gh2bgc49b.jpg') no-repeat center/cover;
+    background: url('../images/bg-pattern.jpg') no-repeat center/cover;
     /* Handles responsivity without the need for a media query */
     display: flex;
     flex-wrap: wrap;
@@ -210,11 +210,15 @@ main {
 #contact div {
     color: #fafafa;
     background-color: rgba(0, 0, 0, .6);
-    padding: 50px;
+    padding: 30px;
     text-align: center;
     flex-basis: 200px;
     flex-grow: 1;
     border: 2px solid white;
+}
+
+#contact  h3{
+    color: #fafafa;
 }
 
 /* Footer */
