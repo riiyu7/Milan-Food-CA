@@ -104,9 +104,9 @@ main {
     margin-top: 40px;
 }
 
-/* Hero Section */
+/* Hero, Food Menu and Contact us Section */
 
-#hero {
+#hero, #food-menu, #contact-us {
     height: 600px;
     width: 100%;
     background: url("../images/spices.jpg") no-repeat center center/cover;
