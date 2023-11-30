@@ -97,7 +97,7 @@ main {
 #hero {
     height: 600px;
     width: 100%;
-    background-color: maroon;
+    background: url("../images/spices.jpg") no-repeat center center/cover;
 }
 
 /* Footer */
