@@ -47,12 +47,6 @@ As I site user and potential client, I want to easily find out opening times and
 
 As returning user, I want to be able to access the website through my phone at times I might be on the go, I would want to see similarities in the page from desktop and mobile so its easy to navigate.
 
-
-
-
-
-
-
 ## Wireframes
 
 ### Mobile Wireframes
