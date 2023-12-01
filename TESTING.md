@@ -52,16 +52,11 @@ Sample browser testing documentation:
 
 I've tested my deployed project on multiple browsers to check for compatibility issues.
 
-| Browser | Home                                                         | menu                                                         | Notes              |
-| ------- | ------------------------------------------------------------ | -----------------------------------------------------        | ------------------ |
+| Browser | Home                                                         | Menu                                                         | Notes              |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------ |
 | Chrome  | ![screenshot](documentation/testing/browser-chrome-home.png) | ![screenshot](documentation/testing/browser-chrome-menu.png) | Works as expected  |
-
-
-
-
-| Edge | ![screenshot](documentation/browser-edge-home.png) | ![screenshot](documentation/browser-edge-about.png) | ![screenshot](documentation/browser-chrome-edge.png) | ![screenshot](documentation/browser-edge-etc.png) | Works as expected |
-
-| Brave | ![screenshot](documentation/browser-brave-home.png) | ![screenshot](documentation/browser-brave-about.png) | ![screenshot](documentation/browser-brave-contact.png) | ![screenshot](documentation/
+| Edge    | ![screenshot](documentation/testing/browser-edge-home.png)   | ![screenshot](documentation/testing/browser-edge-menu.png)   | Works as expected  |
+| Brave   | ![screenshot](documentation/testing/browser-edge-home.png)   | ![screenshot](documentation/testing/browser-edge-menu.png)   | Works as expected  |
 
 ## Responsiveness
 
