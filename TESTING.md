@@ -56,7 +56,7 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------ |
 | Chrome  | ![screenshot](documentation/testing/browser-chrome-home.png) | ![screenshot](documentation/testing/browser-chrome-menu.png) | Works as expected  |
 | Edge    | ![screenshot](documentation/testing/browser-edge-home.png)   | ![screenshot](documentation/testing/browser-edge-menu.png)   | Works as expected  |
-| Brave   | ![screenshot](documentation/testing/browser-edge-home.png)   | ![screenshot](documentation/testing/browser-edge-menu.png)   | Works as expected  |
+| Brave   | ![screenshot](documentation/testing/browser-brave-home.png)  | ![screenshot](documentation/testing/browser-brave-menu.png) | Works as expected  |
 
 ## Responsiveness
 
