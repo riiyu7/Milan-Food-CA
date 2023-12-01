@@ -14,7 +14,7 @@ I primarily chose Maroon (#800000) to be used for my headings and logo as it rep
 
 I used [coolors.co](https://coolors.co/800000-3a3a3a-ffd591-ffffff) to generate my colour palette.
 
-![screenshot] (documentation/coolers.png)
+![screenshot](documentation/coolers.png)
 
 ### Typography
 
@@ -50,8 +50,8 @@ User 2- As returning user, I can see there is a menu link which displays all ite
 
 ### Mobile Wireframes
 
-< details >
-< summary > Click here to see the Mobile Wireframes < / summary >
+<details>
+<summary> Click here to see the Mobile Wireframes </summary>
 
 Home
   - ![screenshot](documentation/wireframes/home-mobile.png)
@@ -63,8 +63,8 @@ Menu
 
 ### Tablet Wireframes
 
-< details >
-< summary > Click here to see the Tablet Wireframes < / summary >
+<details>
+<summary> Click here to see the Tablet Wireframes </summary>
 
 Home
   - ![screenshot](documentation/wireframes/home-tablet.png)
@@ -72,7 +72,7 @@ Home
 Menu
   - ![screenshot](documentation/wireframes/menu-tablet.png)
 
-< / details >
+</details>
 
 ### Desktop Wireframes
 
@@ -82,7 +82,7 @@ Home
 Menu
   - ![screenshot](documentation/wireframes/menu-desktop.png)
 
-< / details >
+</details >
 
 ## Features
 
