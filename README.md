@@ -14,7 +14,7 @@ I primarily chose Maroon (#800000) to be used for my headings and logo as it rep
 
 I used [coolors.co](https://coolors.co/800000-3a3a3a-ffd591-ffffff) to generate my colour palette.
 
-![screenshot](documentation/coolors.png)
+![screenshot] (documentation/coolers.png)
 
 ### Typography
 
@@ -24,29 +24,27 @@ I used [coolors.co](https://coolors.co/800000-3a3a3a-ffd591-ffffff) to generate 
 
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
-## User Stories
+## User Experience
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+## Goals
 
-In this section, list all of your user stories for the project.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+- Create a simple but visually appealing website.
+- Quality and valuable content that is clear and straight to the point.
+- Easy to use and navigate through website and Menu link.
+- Responsive design on all devices.
 
 ### New Site Users
 
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
+User 1 -  As a new site user, I would not want to see a webpage that is cluttered or hard to use, I would like to see something that provides me information quick and efficiently.
+
+User 2 - When I look at a food website as a new user, my first go to link would be the Menu so I can get a little understanding of the type of food they will have. Im also not a fan of downloading PDF's onto my device so preferably id like to see the information on one page.
 
 ### Returning Site Users
 
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
+User 1 - As returning user, I can see the webpage is easily viewable on my desktop and phone and it is not cluttered. The information displayed is clear and concise 
+
+User 2- As returning user, I can see there is a menu link which displays all items on one page and is easy to use and navigate. Overall i like the design and the fact that social media links are provided below.
+
 
 ## Wireframes
 
