@@ -177,7 +177,7 @@ main {
 
 /* Services section */
 #services {
-    background: url('../images/indian-food-banner.jpg') no-repeat center/cover;
+    background: url('/workspace/Milan-Food-CA/assets/images') no-repeat center/cover;
     /* Handles responsivity without the need for a media query */
     display: flex;
     flex-wrap: wrap;
