@@ -218,24 +218,22 @@ While testing my local site vs deployment I didnt notice anything different and 
 
 ## Credits
 
-Id like to thank everyone who helped with the website and including my mentor Tim, who provided some valuable guidance and assistance.
-
-I was inspired with some of the ideas seen on other Indian resturant pages such as Jolly Catering company and milans sweet centre.
+I wouldd like to thank everyone who helped with the website, I was inspired with some of the ideas seen on other Indian resturant pages such as Jolly Catering.
 
 ### Content
 
-| [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
-  [Jolly Catering](https://jollycatering.co.uk/) | content and Ideas | I got inspiration for my content and ideas from this website.
-  [Majestic Form](https://www.majesticform.com/form-guides/html-email-form) | Form code | code for form which wasnt used in the end. |
+- [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
+- [Jolly Catering](https://jollycatering.co.uk/) | content and Ideas | I got inspiration for my content and ideas from this website.
+- [Majestic Form](https://www.majesticform.com/form-guides/html-email-form) | Form code | code for form which wasnt used in the end. |
   
 
 ### Media
 
-  [Hero image](https://cdn11.bigcommerce.com/s-q1r8ac87/product_images/uploaded_images/spices.jpg)| Image | Image was used for my hero section | 
-  [bg-pattern image](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147509972/images/3acd38b-d081-2f5d-f785-a173c6bdab21_Indian-Floral.jpg) | Image | Image was used for my sections near the footer | 
-  [indian-food](https://www.getintonewcastle.co.uk/images/uploads/pexels-anil-sharma-10580198.jpg?w=1200&h=630&fit=crop&fm=pjpg&q=90) | Image | Image was used in the why us section|
-  [indian-food-banner](https://www.matchingfoodandwine.com/files/blogattachments/top/indian-food@2x.jpg)| Image | Image was used for my sections near the footer | 
-  [Font Awesome Favicon](https://fontawesome.com/) | Favicon |
+- [Hero image](https://cdn11.bigcommerce.com/s-q1r8ac87/product_images/uploaded_images/spices.jpg)| Image | Image was used for my hero section | 
+- [bg-pattern image](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147509972/images/3acd38b-d081-2f5d-f785-a173c6bdab21_Indian-Floral.jpg) | Image | Image was used for my sections near the footer | 
+- [indian-food](https://www.getintonewcastle.co.uk/images/uploads/pexels-anil-sharma-10580198.jpg?w=1200&h=630&fit=crop&fm=pjpg&q=90) | Image | Image was used in the why us section|
+- [indian-food-banner](https://www.matchingfoodandwine.com/files/blogattachments/top/indian-food@2x.jpg)| Image | Image was used for my sections near the footer | 
+- [Font Awesome Favicon](https://fontawesome.com/) | Favicon |
 
 ### Acknowledgements
 
