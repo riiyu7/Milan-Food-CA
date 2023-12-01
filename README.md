@@ -96,50 +96,37 @@ Menu
 
 ## Features
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-In this section, you should go over the different parts of your project,
-and describe each in a sentence or so.
-
-You will need to explain what value each of the features provides for the user,
-focusing on who this website is for, what it is that they want to achieve,
-and how your project is the best way to help them achieve these things.
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-IMPORTANT: Remember to always include a screenshot of each individual feature!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 ### Existing Features
 
-- **Easy to use Nav Bar and social media icons**
+#### Easy to use Nav Bar and social media icons
 
-    - The navigation bar is simple and effective displaying the menu and home page only. The addition of the social media icons within the footer help the customers connect with our social media accounts aswell giving them an insight into the work we do.
+   - The navigation bar is simple and effective displaying the menu and home page only. The addition of the social media icons within the footer help the customers connect    
+     with our social media accounts aswell giving them an insight into the work we do.
+   - Screenshot of Nav Bar:
+  ![screenshot](documentation/features/nav-bar.png)
 
-- Nav Bar
-![screenshot](documentation/features/nav-bar.png)
-
-- Social Media Links
-![screenshot](documentation/features/social-media-bar.png)
+   - Screenshot of Social Media Icons:
+   ![screenshot](documentation/features/social-media-bar.png)
 
 
-- **Company Background**
+#### Company Background
 
-    - This section gives a brief background to who we are, what we can offer them and also why they can count on us to provide them the services they require.
+  - This section gives a brief background to who we are, what we can offer them and also why they can count on us to provide them the services they require.
+  - Screenshot of Business Overview:
+  ![screenshot](documentation/features/overview-business.png)
 
-![screenshot](documentation/features/overview-business.png)
+#### Services Overview
 
-- **Services Overview**
+  - The services overview displays information about the type of catering we do which include weddings, events or corporate events. This section easily displays our services to 
+    help clients understand what Milans can offer them.
+  - Screenshot of Services Overview:
+  ![screenshot](documentation/features/services-overview.png)
 
-    - The services overview displays information about the type of catering we do which include weddings, events or corporate events. This section easily displays our services to help clients understand what Milans can offer them.
-
-![screenshot](documentation/features/services-overview.png)
-
-- **Simple Menu**
+#### Simple Menu
   
-    - The simple menu design provides information to the customer easily without the need of scorlling across to different sections with all the menu displayed together in a organised manner.
-
+  - The simple menu design provides information to the customer easily without the need of scorlling across to different sections with all the menu displayed together in a 
+    organised manner.
+Screenshot of Simple Menu:
 ![screenshot](documentation/features/easy-view-menu.png)
 
 ### Future Features
