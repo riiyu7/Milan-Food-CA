@@ -9,19 +9,19 @@ Return back to the [README.md](README.md) file.
 I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
 
-| Page | W3C URL                                                                                             | Screenshot |                                          |Notes            |
-| ---  | -------------------------------------------------------------------------------------------------   | ---------- | ---------------------------------------- | --------------- |
-| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Findex.html) | ![screenshot](documentation/testing/home-page-w3.png) | pass: No errors |
-| Menu | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Fmenu.html) | ![screenshot](documentation/testing/Menu-page-w3.png) | pass: No errors |
+| Page | W3C URL                                                                                             | Screenshot |                                                  |Notes            |
+| ---  | -------------------------------------------------------------------------------------------------   | ---------- | -----------------------------------------------  | --------------- |
+| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Findex.html) | ![screenshot](documentation/testing/html-validation-home.png) | pass: No errors |
+| Menu | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Fmenu.html)  | ![screenshot](documentation/testing/html-validation-menu.png) | pass: No errors |
 
 
 ### CSS
 
 I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
 
-| File      | Jigsaw URL                                                                                                 | Screenshot                                                    | Notes           |
-| --------- | ---------- ------------------------------------------------------------------------------------------------| ------------------------------------------------------------- | --------------- |
-| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA) | ![screenshot](documentation/testing/css-validation.png)       | Pass: No Errors |
+| File      | Jigsaw URL                                                                                                 | Screenshot                                                   | Notes           |
+| --------- | ---------- ------------------------------------------------------------------------------------------------|------------------------------------------------------------- | --------------- |
+| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA)  | ![screenshot](documentation/testing/css-validation.png)       | Pass: No Errors |
 
 
 ## Browser Compatibility
