@@ -51,19 +51,23 @@ User 2- As returning user, I can see there is a menu link which displays all ite
 ### Mobile Wireframes
 
 <details>
+
 <summary> Click here to see the Mobile Wireframes </summary>
 
 Home
+
   - ![screenshot](documentation/wireframes/home-mobile.png)
 
 Menu
+
   - ![screenshot](documentation/wireframes/menu-mobile.png)
 
-< / details >
+</details>
 
 ### Tablet Wireframes
 
 <details>
+
 <summary> Click here to see the Tablet Wireframes </summary>
 
 Home
@@ -77,12 +81,14 @@ Menu
 ### Desktop Wireframes
 
 Home
+
   - ![screenshot](documentation/wireframes/home-desktop.png)
 
 Menu
+
   - ![screenshot](documentation/wireframes/menu-desktop.png)
 
-</details >
+</details>
 
 ## Features
 
