@@ -1,29 +1,12 @@
-# [MILANS FOOD and SWEET CENTER](https://riiyu7.github.io/Milan-Food-CA)
+# [MILANS FOOD & SWEET CENTER](https://riiyu7.github.io/Milan-Food-CA)
 
-![Milans Food and Sweet Center](documentation/mockup.png)
-In this section, you will include a few paragraphs providing an overview of your project.
-Essentially, this part is your "sales pitch".
+![Milans Food & Sweet Center](documentation/mockup.png)
 
-At this stage, you should have a name for your project so use it!
-Don't introduce the project as a "portfolio project" for the diploma.
+We invite you to come and indulge in authentic Indian food with the 'Milans' family, where the taste of India is brought to you. The 'Milan’s family cater for everyone whether that will be for individuals, weddings or corporate events. Come and experience the taste of India with us.
 
-In this section, describe what the project hopes to accomplish, who it is intended to target, and how it will be useful to the target audience.
+This website displays the type of food food we supply to our customers, as well as
 
-
-
-Screenshots for the README and testing should not be inside of `assets/` or `static/` image folders.
-(reminder: `assets/` and `static/` are for files used on the live site, not documentation)
-Consider adding a new folder called `documentation`, and add the amiresponsive screenshot inside of that folder.
-To add the image into your README, use this format:
-(assuming you have a new folder called `documentation` with an image called "mockup.png")
-
-![screenshot](documentation/mockup.png)
-
-Note: Markdown files (.md) should not contain HTML elements like `img`, `br`, `div`, `a`, etc, only Markdown formatting.
-Find out more about using Markdown elements here:
-https://pandao.github.io/editor.md/en.html
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+This website displays the type of food we supply to our customers, as well as the services we offer. The information provided on the website provides an insight into our business and how we can help our customers.
 
 ## UX
 
