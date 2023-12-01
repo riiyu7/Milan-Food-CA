@@ -80,6 +80,10 @@ Menu
 
 ### Desktop Wireframes
 
+<details>
+
+<summary>Click here to see the Desktop Wireframes </summary>
+
 Home
 
   - ![screenshot](documentation/wireframes/home-desktop.png)
@@ -109,42 +113,36 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
 ### Existing Features
 
-- **Title for feature #1**
+- **Easy to use Nav Bar and social media icons**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - The navigation bar is simple and effective displaying the menu and home page only. The addition of the social media icons within the footer help the customers connect with our social media accounts aswell giving them an insight into the work we do.
 
-![screenshot](documentation/feature01.png)
+- Nav Bar
+![screenshot](documentation/features/nav-bar.png)
 
-- **Title for feature #2**
+- Social Media Links
+![screenshot](documentation/features/social-media-bar.png)
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 
-![screenshot](documentation/feature02.png)
+- **Company Background**
 
-- **Title for feature #3**
+    - This section gives a brief background to who we are, what we can offer them and also why they can count on us to provide them the services they require.
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+![screenshot](documentation/features/overview-business.png)
 
-![screenshot](documentation/feature03.png)
+- **Services Overview**
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+    - The services overview displays information about the type of catering we do which include weddings, events or corporate events. This section easily displays our services to help clients understand what Milans can offer them.
 
-Repeat as necessary for as many features as your site contains.
+![screenshot](documentation/features/services-overview.png)
 
-Hint: the more, the merrier!
+- **Simple Menu**
+  
+    - The simple menu design provides information to the customer easily without the need of scorlling across to different sections with all the menu displayed together in a organised manner.
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+![screenshot](documentation/features/easy-view-menu.png)
 
 ### Future Features
-
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-Do you have additional ideas that you'd like to include on your project in the future?
-Fantastic! List them here!
-It's always great to have plans for future improvements!
-Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 - Title for future feature #1
     - Any additional notes about this feature.
