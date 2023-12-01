@@ -39,11 +39,19 @@ User 1 -  As a new site user, I would not want to see a webpage that is cluttere
 
 User 2 - When I look at a food website as a new user, my first go to link would be the Menu so I can get a little understanding of the type of food they will have. Im also not a fan of downloading PDF's onto my device so preferably id like to see the information on one page.
 
+User 3 - As I site user and potential client, I want to easily find out opening times and contact information so i know what days the business is closed.
+
+
+
 ### Returning Site Users
 
-User 1 - As returning user, I can see the webpage is easily viewable on my desktop and phone and it is not cluttered. The information displayed is clear and concise 
+User 1 - As returning user, I want to be able to access the website through my phone at times I might be on the go, I would want to see similarities in the page from desktop and mobile so its easy to navigate.
 
-User 2- As returning user, I can see there is a menu link which displays all items on one page and is easy to use and navigate. Overall i like the design and the fact that social media links are provided below.
+User 2 - As returning user, I can see there is a menu link which displays all items on one page and is easy to use and navigate. Overall i like the design and the fact that social media links are provided below.
+
+
+
+
 
 
 ## Wireframes
