@@ -102,10 +102,13 @@ Menu
 
    - The navigation bar is simple and effective displaying the menu and home page only. The addition of the social media icons within the footer help the customers connect    
      with our social media accounts aswell giving them an insight into the work we do.
+
    - Screenshot of Nav Bar:
+
   ![screenshot](documentation/features/nav-bar.png)
 
    - Screenshot of Social Media Icons:
+
    ![screenshot](documentation/features/social-media-bar.png)
 
 
@@ -113,41 +116,39 @@ Menu
 
   - This section gives a brief background to who we are, what we can offer them and also why they can count on us to provide them the services they require.
   - Screenshot of Business Overview:
+
   ![screenshot](documentation/features/overview-business.png)
 
 #### Services Overview
 
   - The services overview displays information about the type of catering we do which include weddings, events or corporate events. This section easily displays our services to 
     help clients understand what Milans can offer them.
+
   - Screenshot of Services Overview:
+
   ![screenshot](documentation/features/services-overview.png)
 
 #### Simple Menu
   
   - The simple menu design provides information to the customer easily without the need of scorlling across to different sections with all the menu displayed together in a 
     organised manner.
-Screenshot of Simple Menu:
-![screenshot](documentation/features/easy-view-menu.png)
+
+  - Screenshot of Simple Menu:
+
+  ![screenshot](documentation/features/easy-view-menu.png)
 
 ### Future Features
 
-- Title for future feature #1
-    - Any additional notes about this feature.
-- Title for future feature #2
-    - Any additional notes about this feature.
-- Title for future feature #3
-    - Any additional notes about this feature.
+- Gallery Page
+    - Adding a Gallery page to display the food we provide on weddings and events
+- Contact Form 
+    - Add a contact form so customers can interact with our website with any questions they have
+- Booking System
+    - Add a simple booking system so customers who are looking to come in to test our food for events or weddings can easily find a time slot.
+- Online Store
+    - I would add an online store to the website so customers can buy and get orders shipped instead of using delivery partners.
 
 ## Tools & Technologies Used
-
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-In this section, you should explain the various tools and technologies used to develop the project.
-Make sure to put a link (where applicable) to the source, and explain what each was used for.
-Some examples have been provided, but this is just a sample only, your project might've used others.
-Feel free to delete any unused items below as necessary.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
 - [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
@@ -160,19 +161,9 @@ Feel free to delete any unused items below as necessary.
 - [GitHub](https://github.com) used for secure online code storage.
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
 - [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
-- [Codeanywhere](https://codeanywhere.com) used as a cloud-based IDE for development.
 - [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
 - [Materialize](https://materializecss.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
-- [Flask](https://flask.palletsprojects.com) used as the Python framework for the site.
-- [Django](https://www.djangoproject.com) used as the Python framework for the site.
-- [MongoDB](https://www.mongodb.com) used as the non-relational database management with Flask.
-- [SQLAlchemy](https://www.sqlalchemy.org) used as the relational database management with Flask.
-- [PostgreSQL](https://www.postgresql.org) used as the relational database management.
-- [ElephantSQL](https://www.elephantsql.com) used as the Postgres database.
-- [Heroku](https://www.heroku.com) used for hosting the deployed back-end site.
-- [Cloudinary](https://cloudinary.com) used for online static file storage.
-- [Stripe](https://stripe.com) used for online secure payments of ecommerce products/services.
-- [AWS S3](https://aws.amazon.com/s3) used for online static file storage.
+- [Am I Responsive](http://ami.responsivedesign.is/) - Used to verify responsiveness of website on different devices.
 
 ## Testing
 
