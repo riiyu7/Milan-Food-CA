@@ -91,12 +91,14 @@ Serve static assets with an efficient cache policy & Serve images in next-gen fo
 | ---------- | ---------- | ----------- | 
 | As a new site user, I would not want to see a webpage that is cluttered or hard to use, I would like to see something that provides me information quick and efficiently.| ![screenshot](documentation/testing/User-1.png) | Passed: The site features a simple and easily readable design which doesnt feel overwhelming |
 
-| User 2 - When I look at a food website as a new user, my first go to link would be the Menu so I can get a little understanding of the type of food they will have. Im also not a fan of downloading PDF's onto my device so preferably id like to see the information on one page. | ![screenshot](documentation/testing/browser-chrome-menu.png) | Passed: A seperate page displays the menu with an easy to read layout. 
+|When I look at a food website as a new user, my first go to link would be the Menu so I can get a little understanding of the type of food they will have. Im also not a fan of downloading PDF's onto my device so preferably id like to see the information on one page. | ![screenshot](documentation/testing/browser-chrome-menu.png) | Passed: A seperate page displays the menu with an easy to read layout. 
 
-| User 3 - As I site user and potential client, I want to easily find out opening times and contact information so i know what days the business is closed.
+|As a site user and potential client, I want to easily find out opening times and contact information so i know what days the business is closed.
 | ![screenshot](documentation/testing/contact-info.png) | Passed: Easy to read contact information with opening times at the bottom of the screen.|
 
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature06.png) |
+|As returning user, I want to be able to access the website through my phone at times I might be on the go, I would want to see similarities in the page from desktop and mobile so its easy to navigate. | ![screenshot](documentation/testing/responsive-desktop-home.png) |Passed: Website is responsive on mobile devices aswell as desktop.|
+
+
 | As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature07.png) |
 | As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature08.png) |
 | As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature09.png) |

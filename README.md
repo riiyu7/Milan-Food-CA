@@ -35,19 +35,18 @@ I used [coolors.co](https://coolors.co/800000-3a3a3a-ffd591-ffffff) to generate 
 
 ### New Site Users
 
-User 1 -  As a new site user, I would not want to see a webpage that is cluttered or hard to use, I would like to see something that provides me information quick and efficiently.
+As a new site user, I would not want to see a webpage that is cluttered or hard to use, I would like to see something that provides me information quick and efficiently.
 
-User 2 - When I look at a food website as a new user, my first go to link would be the Menu so I can get a little understanding of the type of food they will have. Im also not a fan of downloading PDF's onto my device so preferably id like to see the information on one page.
+When I look at a food website as a new user, my first go to link would be the Menu so I can get a little understanding of the type of food they will have. Im also not a fan of downloading PDF's onto my device so preferably id like to see the information on one page.
 
-User 3 - As I site user and potential client, I want to easily find out opening times and contact information so i know what days the business is closed.
+As I site user and potential client, I want to easily find out opening times and contact information so i know what days the business is closed.
 
 
 
 ### Returning Site Users
 
-User 1 - As returning user, I want to be able to access the website through my phone at times I might be on the go, I would want to see similarities in the page from desktop and mobile so its easy to navigate.
+As returning user, I want to be able to access the website through my phone at times I might be on the go, I would want to see similarities in the page from desktop and mobile so its easy to navigate.
 
-User 2 - As returning user, I can see there is a menu link which displays all items on one page and is easy to use and navigate. Overall i like the design and the fact that social media links are provided below.
 
 
 
