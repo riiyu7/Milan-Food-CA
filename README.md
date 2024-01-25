@@ -224,8 +224,10 @@ I wouldd like to thank everyone who helped with the website, I was inspired with
 ### Content
 
 - [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
-- [Jolly Catering](https://jollycatering.co.uk/) | content and Ideas | I got inspiration for my content and ideas from this website.
+- [Jolly Catering](https://jollycatering.co.uk/) | content and Ideas | I got inspiration for my content and ideas from this website. |
 - [Majestic Form](https://www.majesticform.com/form-guides/html-email-form) | Form code | code for form which wasnt used in the end. |
+- [Love Running](https://learn.codeinstitute.net/) | Code | used code from Love Running project to assit with the fundamentals of my project|
+
   
 
 ### Media
