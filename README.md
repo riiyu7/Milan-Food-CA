@@ -63,6 +63,9 @@ Menu
 
   - ![screenshot](documentation/wireframes/menu-mobile.png)
 
+Contact Us
+  - ![screenshot](documentation/wireframes/contact-us-mobile.png)
+
 </details>
 
 ### Tablet Wireframes
@@ -76,6 +79,9 @@ Home
 
 Menu
   - ![screenshot](documentation/wireframes/menu-tablet.png)
+
+Contact Us
+  - ![screenshot](documentation/wireframes/contact-us-tablet.png)
 
 </details>
 
@@ -92,6 +98,9 @@ Home
 Menu
 
   - ![screenshot](documentation/wireframes/menu-desktop.png)
+
+Contact Us
+  - ![screenshot](documentation/wireframes/contact-us-desktop.png)
 
 </details>
 
@@ -220,11 +229,11 @@ I would like to thank everyone who helped with the website, I was inspired with 
 
 ### Content
 
-| Source                                                                    | content                | Notes                                                                            |
-| ------------------------------------------------------------------------  | -----------------------| -------------------------------------------------------------------------------- |
-| [Markdown Builder](https://tim.2bn.dev/markdown-builder)                  | README and TESTING     | Tool to help generate the Markdown files                                         |
-| [Jolly Catering](https://jollycatering.co.uk/)                            | content and Ideas      | I got inspiration for my content and ideas from this website.                    |
-| [Love Running](https://learn.codeinstitute.net/)                          | Code                   | I used code from Love Running project to assit with the fundamentals of my project |
+| Source                                                                    | content                | Notes                                                                               |
+| ------------------------------------------------------------------------  | -----------------------| ------------------------------------------------------------------------------------|
+| [Markdown Builder](https://tim.2bn.dev/markdown-builder)                  | README and TESTING     | Tool to help generate the Markdown files                                            |
+| [Jolly Catering](https://jollycatering.co.uk/)                            | content and Ideas      | I got inspiration for my content and ideas from this website.                       |
+| [Love Running](https://learn.codeinstitute.net/)                          | Code                   | I used code from Love Running project to assist with the fundamentals of my project |
 
   
 
