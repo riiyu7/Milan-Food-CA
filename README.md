@@ -18,7 +18,7 @@ I used [coolors.co](https://coolors.co/800000-3a3a3a-ffd591-ffffff) to generate 
 
 ### Typography
 
-- [Cabin] (https://fonts.google.com/specimen/Cabin) was used throughout the website
+- [Cabin](https://fonts.google.com/specimen/Cabin) was used throughout the website
 
 - [sans-serif] was used as a secondary text if cabin failed.
 
@@ -153,11 +153,8 @@ Menu
 
 - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
 - [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
-- [CSS :root variables](https://www.w3schools.com/css/css3_variables.asp) used for reusable styles throughout the site.
 - [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) used for an enhanced responsive layout.
 - [CSS Grid](https://www.w3schools.com/css/css_grid.asp) used for an enhanced responsive layout.
-- [JavaScript](https://www.javascript.com) used for user interaction on the site.
-- [Python](https://www.python.org) used as the back-end programming language.
 - [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
 - [GitHub](https://github.com) used for secure online code storage.
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
@@ -219,28 +216,37 @@ While testing my local site vs deployment I didnt notice anything different and 
 
 ## Credits
 
-I wouldd like to thank everyone who helped with the website, I was inspired with some of the ideas seen on other Indian resturant pages such as Jolly Catering.
+I would like to thank everyone who helped with the website, I was inspired with some of the ideas seen on other Indian resturant pages such as Jolly Catering.
 
 ### Content
 
-- [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
-- [Jolly Catering](https://jollycatering.co.uk/) | content and Ideas | I got inspiration for my content and ideas from this website. |
-- [Majestic Form](https://www.majesticform.com/form-guides/html-email-form) | Form code | code for form which wasnt used in the end. |
-- [Love Running](https://learn.codeinstitute.net/) | Code | used code from Love Running project to assit with the fundamentals of my project|
+| Source                                                                    | content                | Notes                                                                            |
+| ------------------------------------------------------------------------  | -----------------------| -------------------------------------------------------------------------------- |
+| [Markdown Builder](https://tim.2bn.dev/markdown-builder)                  | README and TESTING     | Tool to help generate the Markdown files                                         |
+| [Jolly Catering](https://jollycatering.co.uk/)                            | content and Ideas      | I got inspiration for my content and ideas from this website.                    |
+| [Love Running](https://learn.codeinstitute.net/)                          | Code                   | I used code from Love Running project to assit with the fundamentals of my project |
 
   
 
 ### Media
 
-- [Hero image](https://cdn11.bigcommerce.com/s-q1r8ac87/product_images/uploaded_images/spices.jpg)| Image | Image was used for my hero section | 
-- [bg-pattern image](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147509972/images/3acd38b-d081-2f5d-f785-a173c6bdab21_Indian-Floral.jpg) | Image | Image was used for my sections near the footer | 
-- [indian-food](https://www.getintonewcastle.co.uk/images/uploads/pexels-anil-sharma-10580198.jpg?w=1200&h=630&fit=crop&fm=pjpg&q=90) | Image | Image was used in the why us section|
-- [indian-food-banner](https://www.matchingfoodandwine.com/files/blogattachments/top/indian-food@2x.jpg)| Image | Image was used for my sections near the footer | 
-- [Font Awesome Favicon](https://fontawesome.com/) | Favicon |
+I obtained my social media icons from [Font Awesome](https://fontawesome.com):
+
+- [Facebook](https://fontawesome.com/icons/facebook?f=brands&s=solid)
+- [Instagram](https://fontawesome.com/icons/instagram?f=brands&s=solid)
+- [Twitter](https://fontawesome.com/icons/twitter?f=brands&s=solid)
+
+I also used other assets which are linked below:
+
+- [Hero image](https://cdn11.bigcommerce.com/s-q1r8ac87/product_images/uploaded_images/spices.jpg)
+- [bg-pattern image](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147509972/images/3acd38b-d081-2f5d-f785-a173c6bdab21_Indian-Floral.jpg)
+- [indian-food](https://www.getintonewcastle.co.uk/images/uploads/pexels-anil-sharma-10580198.jpg?w=1200&h=630&fit=crop&fm=pjpg&q=90)
+- [indian-food-banner](https://www.matchingfoodandwine.com/files/blogattachments/top/indian-food@2x.jpg)
+- [Font Awesome Favicon](https://fontawesome.com/)
 
 ### Acknowledgements
 
 - I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
 - I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
+- I would also like to thank the [Code Institute](https://codeinstitute.net) for providing me insipiration via the projecttutorials and content.
 - I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
-- I would like to thank my employer, for supporting me in my career development change towards becoming a software developer.
