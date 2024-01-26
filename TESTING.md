@@ -9,10 +9,11 @@ Return back to the [README.md](README.md) file.
 I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
 
-| Page | W3C URL                                                                                             | Screenshot |                                                  |Notes            |
-| ---  | -------------------------------------------------------------------------------------------------   | ---------- | -----------------------------------------------  | --------------- |
-| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Findex.html) | ![screenshot](documentation/testing/html-validation-home.png) | pass: No errors |
-| Menu | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Fmenu.html)  | ![screenshot](documentation/testing/html-validation-menu.png) | pass: No errors |
+| Page       | W3C URL                                                                                                         | Screenshot |                                                  |Notes            |
+| ---------  | ----------------------------------------------------------------------------------------------------------------| ---------- | -----------------------------------------------  | --------------- |
+| Home       | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Findex.html)             | ![screenshot](documentation/testing/html-validation-home.png) | pass: No errors |
+| Menu       | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Fmenu.html)              | ![screenshot](documentation/testing/html-validation-menu.png) | pass: No errors |
+| Contact Us | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Fmenu.html%23contact-us) | ![screenshot](documentation/testing/html-validation- cu.png)  | pass: No errors |
 
 
 ### CSS
@@ -28,31 +29,32 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 I've tested my deployed project on multiple browsers to check for compatibility issues.
 
-| Browser | Home                                                         | Menu                                                         | Notes              |
-| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------ |
-| Chrome  | ![screenshot](documentation/testing/browser-chrome-home.png) | ![screenshot](documentation/testing/browser-chrome-menu.png) | Works as expected  |
-| Edge    | ![screenshot](documentation/testing/browser-edge-home.png)   | ![screenshot](documentation/testing/browser-edge-menu.png)   | Works as expected  |
-| Brave   | ![screenshot](documentation/testing/browser-brave-home.png)  | ![screenshot](documentation/testing/browser-brave-menu.png)  | Works as expected   |
+| Browser | Home                                                         | Menu                                                         | Contact Us                                                 | Notes              |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------  | ------------------ |
+| Chrome  | ![screenshot](documentation/testing/browser-chrome-home.png) | ![screenshot](documentation/testing/browser-chrome-menu.png) | ![screenshot](documentation/testing/chrome-contact-us.png) | Works as expected  |
+| Edge    | ![screenshot](documentation/testing/browser-edge-home.png)   | ![screenshot](documentation/testing/browser-edge-menu.png)   | ![screenshot](documentation/testing/edge-contact-us.png)   | Works as expected  |
+| Brave   | ![screenshot](documentation/testing/browser-brave-home.png)  | ![screenshot](documentation/testing/browser-brave-menu.png)  | ![screenshot](documentation/testing/brave-contact-us.png)  | Works as expected  |
 
 ## Responsiveness
 
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
-| Device                | Home                                                           | Menu                                                             |   Notes            |
-| -------------------| ----------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------ |
-| Galaxy S23 Ultra   | ![screenshot](documentation/testing/my-own-mobile-home.jpg)       | ![screenshot](documentation/testing/my-own-mobile-menu.jpg)      | Works as expected  |
-| Tablet (DevTools)  | ![screenshot](documentation/testing/responsive-tablet-home.png)   | ![screenshot](documentation/testing/responsive-tablet-menu.png)  | Works as expected  |
-| Desktop (DevTools) | ![screenshot](documentation/testing/responsive-desktop-home.png)  | ![screenshot](documentation/testing/responsive-desktop-menu.png) | Works as expected  |
+| Device                | Home                                                           | Menu                                                             | Contact Us                                                | Notes              |
+| -------------------| ----------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------- |
+| Galaxy S23 Ultra   | ![screenshot](documentation/testing/my-own-mobile-home.jpg)       | ![screenshot](documentation/testing/my-own-mobile-menu.jpg)      | ![screenshot](documentation/testing/s23-resp.jpg) |
+| Tablet (DevTools)  | ![screenshot](documentation/testing/responsive-tablet-home.png)   | ![screenshot](documentation/testing/responsive-tablet-menu.png)  | ![screenshot](documentation/testing/tablet-resp.png) |
+| Desktop (DevTools) | ![screenshot](documentation/testing/responsive-desktop-home.png)  | ![screenshot](documentation/testing/responsive-desktop-menu.png) | ![screenshot](documentation/testing/desk-resp.png) |
 
 
 ## Lighthouse Audit
 
 I've tested my deployed project using the Lighthouse Audit tool to check for any major issues.
 
-| Page | Mobile                                                    | Desktop                                                   | Notes               |
-| ---- | --------------------------------------------------------  | --------------------------------------------------------- | ------------------- |
-| Home | ![screenshot](documentation/testing/la-home-mobile.png)   | ![screenshot](documentation/testing/la-home-desktop.png)  | Some minor warnings |
-| Menu | ![screenshot](documentation/testing/la-menu-mobile.png)   | ![screenshot](documentation/testing/la-menu-desktop.png)  | Some minor warnings |
+| Page       | Mobile                                                    | Desktop                                                   | |Notes               |
+| ----       | --------------------------------------------------------  | --------------------------------------------------------- | |------------------- |
+| Home       | ![screenshot](documentation/testing/la-home-mobile.png)   | ![screenshot](documentation/testing/la-home-desktop.png)  | |Some minor warnings |
+| Menu       | ![screenshot](documentation/testing/la-menu-mobile.png)   | ![screenshot](documentation/testing/la-menu-desktop.png)  | |Some minor warnings |
+| Contact Us | ![screenshot](documentation/testing/la-menu-mobile.png)   | ![screenshot](documentation/testing/la-menu-desktop.png)  | |Some minor warnings |
 
 The main issues I faced with the home screen for both desktop and mobile are the following: 
 
