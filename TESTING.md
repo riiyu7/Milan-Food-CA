@@ -13,16 +13,16 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 | ---------  | ----------------------------------------------------------------------------------------------------------------| ---------- | -----------------------------------------------  | --------------- |
 | Home       | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Findex.html)             | ![screenshot](documentation/testing/html-validation-home.png) | pass: No errors |
 | Menu       | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Fmenu.html)              | ![screenshot](documentation/testing/html-validation-menu.png) | pass: No errors |
-| Contact Us | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Fmenu.html%23contact-us) | ![screenshot](documentation/testing/html-validation- cu.png)  | pass: No errors |
+| Contact Us | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Fmenu.html%23contact-us) | ![screenshot](documentation/testing/html-validation-cu.png)   | pass: No errors |
 
 
 ### CSS
 
 I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
 
-| File      | Jigsaw URL                                                                                                 | Screenshot                                                   | Notes           |
-| --------- | ---------- ------------------------------------------------------------------------------------------------|------------------------------------------------------------- | --------------- |
-| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA)  | ![screenshot](documentation/testing/css-validation.png)       | Pass: No Errors |
+| File      | Jigsaw URL                                                                                                  | Screenshot                                                   | Notes           |
+| --------- | ----------------------------------------------------------------------------------------------------------- |------------------------------------------------------------- | --------------- |
+| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA)  | ![screenshot](documentation/testing/css-validation.png)      | Pass: No Errors |
 
 
 ## Browser Compatibility
@@ -39,11 +39,11 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
-| Device                | Home                                                           | Menu                                                             | Contact Us                                                | Notes              |
-| -------------------| ----------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------- |
-| Galaxy S23 Ultra   | ![screenshot](documentation/testing/my-own-mobile-home.jpg)       | ![screenshot](documentation/testing/my-own-mobile-menu.jpg)      | ![screenshot](documentation/testing/s23-resp.jpg) |
-| Tablet (DevTools)  | ![screenshot](documentation/testing/responsive-tablet-home.png)   | ![screenshot](documentation/testing/responsive-tablet-menu.png)  | ![screenshot](documentation/testing/tablet-resp.png) |
-| Desktop (DevTools) | ![screenshot](documentation/testing/responsive-desktop-home.png)  | ![screenshot](documentation/testing/responsive-desktop-menu.png) | ![screenshot](documentation/testing/desk-resp.png) |
+| Device                | Home                                                              | Menu                                                             | Contact Us                                                | 
+| --------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------- |
+| Galaxy S23 Ultra      | ![screenshot](documentation/testing/my-own-mobile-home.jpg)       | ![screenshot](documentation/testing/my-own-mobile-menu.jpg)      | ![screenshot](documentation/testing/s23-resp.jpg)         |
+| Tablet (DevTools)     | ![screenshot](documentation/testing/responsive-tablet-home.png)   | ![screenshot](documentation/testing/responsive-tablet-menu.png)  | ![screenshot](documentation/testing/tablet-resp.png)      |
+| Desktop (DevTools)    | ![screenshot](documentation/testing/responsive-desktop-home.png)  | ![screenshot](documentation/testing/responsive-desktop-menu.png) | ![screenshot](documentation/testing/desk-resp.png)        |
 
 
 ## Lighthouse Audit
@@ -62,7 +62,9 @@ Serve static assets with an efficient cache policy & Serve images in next-gen fo
 
 ## User Story Testing
 
-| As a new site user, I would not want to see a webpage that is cluttered or hard to use, I would like to see something that provides me information quick and efficiently.| ![screenshot](documentation/testing/User-1.png) | Passed: The site features a simple and easily readable design which doesnt feel overwhelming |
+- As a new site user, I would not want to see a webpage that is cluttered or hard to use, I would like to see something that provides me information quick and efficiently.
+
+[screenshot](documentation/testing/User-1.png) | Passed: The site features a simple and easily readable design which doesnt feel overwhelming |
 
 |When I look at a food website as a new user, my first go to link would be the Menu so I can get a little understanding of the type of food they will have. Im also not a fan of downloading PDF's onto my device so preferably id like to see the information on one page. | ![screenshot](documentation/testing/browser-chrome-menu.png) | Passed: A seperate page displays the menu with an easy to read layout. 
 
