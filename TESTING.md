@@ -62,6 +62,11 @@ Serve static assets with an efficient cache policy & Serve images in next-gen fo
 
 ## User Story Testing
 
+
+| User Story                                                                    | Screenshot |
+| ---                                                                           | --- |
+| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature01.png) |
+
 - As a new site user, I would not want to see a webpage that is cluttered or hard to use, I would like to see something that provides me information quick and efficiently.
 
 [screenshot](documentation/testing/User-1.png) | Passed: The site features a simple and easily readable design which doesnt feel overwhelming |
