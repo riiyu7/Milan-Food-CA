@@ -153,7 +153,7 @@ Contact Us
 
   - Screenshot of Contact Us Form:
 
-  ![screenshot](documentation/wireframes/contact-us-desktop.png)
+  ![screenshot](documentation/features/contact-us-form.png)
 
 ### Future Features
 
