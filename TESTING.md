@@ -9,12 +9,12 @@ Return back to the [README.md](README.md) file.
 I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
 
-| Page       | W3C URL                                                                                                         | Screenshot |                                                  |Notes            |
-| ---------  | ----------------------------------------------------------------------------------------------------------------| ---------- | -----------------------------------------------  | --------------- |
-| Home       | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Findex.html)             | ![screenshot](documentation/testing/html-validation-home.png) | pass: No errors |
-| Menu       | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Fmenu.html)              | ![screenshot](documentation/testing/html-validation-menu.png) | pass: No errors |
-| Contact Us | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Fmenu.html%23contact-us) | ![screenshot](documentation/testing/html-validation-cu.png)   | pass: No errors |
-| Thank You | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Fthank_you.html) | ![screenshot](documentation/testing/html-validation-thank-you.png)   | pass: No errors |
+| Page       | W3C URL                                                                                                         | Screenshot                                                            | Notes           |
+| ---------  | ----------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------- | --------------- |
+| Home       | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Findex.html)             | ![screenshot](documentation/testing/html-validation-home.png)         | pass: No errors |
+| Menu       | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Fmenu.html)              | ![screenshot](documentation/testing/html-validation-menu.png)         | pass: No errors |
+| Contact Us | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Fmenu.html%23contact-us) | ![screenshot](documentation/testing/html-validation-cu.png)           | pass: No errors |
+| Thank You  | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Fthank_you.html)         | ![screenshot](documentation/testing/html-validation-thank-you.png)    | pass: No errors |
 
 
 ### CSS
@@ -30,21 +30,21 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 I've tested my deployed project on multiple browsers to check for compatibility issues.
 
-| Browser | Home                                                         | Menu                                                         | Contact Us                                                 | Notes              |
-| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------  | ------------------ |
-| Chrome  | ![screenshot](documentation/testing/browser-chrome-home.png) | ![screenshot](documentation/testing/browser-chrome-menu.png) | ![screenshot](documentation/testing/chrome-contact-us.png) | Works as expected  |
-| Edge    | ![screenshot](documentation/testing/browser-edge-home.png)   | ![screenshot](documentation/testing/browser-edge-menu.png)   | ![screenshot](documentation/testing/edge-contact-us.png)   | Works as expected  |
-| Brave   | ![screenshot](documentation/testing/browser-brave-home.png)  | ![screenshot](documentation/testing/browser-brave-menu.png)  | ![screenshot](documentation/testing/brave-contact-us.png)  | Works as expected  |
+| Browser | Home                                                         | Menu                                                         | Contact Us                                                 | Thank You | Notes              |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------  | --------- | ------------------ |
+| Chrome  | ![screenshot](documentation/testing/browser-chrome-home.png) | ![screenshot](documentation/testing/browser-chrome-menu.png) | ![screenshot](documentation/testing/chrome-contact-us.png) | ![screenshot](documentation/testing/chrome-contact-us.png)      | Works as expected  |
+| Edge    | ![screenshot](documentation/testing/browser-edge-home.png)   | ![screenshot](documentation/testing/browser-edge-menu.png)   | ![screenshot](documentation/testing/edge-contact-us.png)   | ![screenshot](documentation/testing/chrome-contact-us.png)     | Works as expected  |
+| Brave   | ![screenshot](documentation/testing/browser-brave-home.png)  | ![screenshot](documentation/testing/browser-brave-menu.png)  | ![screenshot](documentation/testing/brave-contact-us.png)  | ![screenshot](documentation/testing/chrome-contact-us.png)      | Works as expected  |
 
 ## Responsiveness
 
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
-| Device                | Home                                                              | Menu                                                             | Contact Us                                                | 
-| --------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------- |
-| Galaxy S23 Ultra      | ![screenshot](documentation/testing/my-own-mobile-home.jpg)       | ![screenshot](documentation/testing/my-own-mobile-menu.jpg)      | ![screenshot](documentation/testing/responsive-contact-us-s23.jpg)         |
-| Tablet (DevTools)     | ![screenshot](documentation/testing/responsive-tablet-home.png)   | ![screenshot](documentation/testing/responsive-tablet-menu.png)  | ![screenshot](documentation/testing/responsive-desktop-tablet.png)      |
-| Desktop (DevTools)    | ![screenshot](documentation/testing/responsive-desktop-home.png)  | ![screenshot](documentation/testing/responsive-desktop-menu.png) | ![screenshot](documentation/testing/responsive-desktop-contact_us.png)        |
+| Device                | Home                                                              | Menu                                                             | Contact Us    | Contact Us                                                | 
+| --------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- | ------------- | --------------------------------------------------------- |
+| Galaxy S23 Ultra      | ![screenshot](documentation/testing/my-own-mobile-home.jpg)       | ![screenshot](documentation/testing/my-own-mobile-menu.jpg)      | ![screenshot](documentation/testing/responsive-contact-us-s23.jpg) | ![screenshot](documentation/testing/responsive-contact-us-s23.jpg)         |
+| Tablet (DevTools)     | ![screenshot](documentation/testing/responsive-tablet-home.png)   | ![screenshot](documentation/testing/responsive-tablet-menu.png)  | ![screenshot](documentation/testing/responsive-contact-us-s23.jpg) | ![screenshot](documentation/testing/responsive-desktop-tablet.png)      |
+| Desktop (DevTools)    | ![screenshot](documentation/testing/responsive-desktop-home.png)  | ![screenshot](documentation/testing/responsive-desktop-menu.png) | ![screenshot](documentation/testing/responsive-contact-us-s23.jpg) | ![screenshot](documentation/testing/responsive-desktop-contact_us.png)        |
 
 There are slight noticeable scaling issues on the contact_us.html page.
 
