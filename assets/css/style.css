@@ -256,6 +256,55 @@ main {
     color: #3a3a3a;
 }
 
+/* Contact Us Form */
+
+.contact_us_body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #fafafa;
+}
+.contact_us_form {
+    margin-top: 100px;
+    width: 80%;
+    max-width: 400px;
+    background-color: #fafafa;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 40px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+input, textarea {
+    padding: 5px;
+    margin-bottom: 60px;
+    border: 1px solid maroon;
+    border-radius: 5px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover { 
+    background-color: maroon;
+    color: #fafafa;
+}
+
 /* Media Query Tablets and larger (768px and up) */
 
 @media screen and (min-width: 768px) {
