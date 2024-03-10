@@ -20,7 +20,7 @@ I used [coolors.co](https://coolors.co/800000-3a3a3a-ffd591-ffffff) to generate 
 
 - [Cabin](https://fonts.google.com/specimen/Cabin) was used throughout the website
 
-- [sans-serif] was used as a secondary text if cabin failed.
+- [sans-serif](https://fonts.google.com/knowledge/glossary/sans_serif) was used as a secondary text if cabin failed.
 
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
