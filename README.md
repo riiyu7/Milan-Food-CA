@@ -20,7 +20,7 @@ I used [coolors.co](https://coolors.co/800000-3a3a3a-ffd591-ffffff) to generate 
 
 - [Cabin](https://fonts.google.com/specimen/Cabin) was used throughout the website
 
-- [sans-serif](https://fonts.google.com/knowledge/glossary/sans_serif) was used as a secondary text if cabin failed.
+- [Sans-Serif](https://fonts.google.com/knowledge/glossary/sans_serif) was used as a secondary text if cabin failed.
 
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
@@ -40,7 +40,6 @@ As a new site user, I would not want to see a webpage that is cluttered or hard 
 When I look at a food website as a new user, my first go to link would be the Menu so I can get a little understanding of the type of food they will have. Im also not a fan of downloading PDF's onto my device so preferably id like to see the information on one page.
 
 As I site user and potential client, I want to easily find out opening times and contact information so i know what days the business is closed.
-
 
 
 ### Returning Site Users
@@ -147,12 +146,19 @@ Contact Us
 
   ![screenshot](documentation/features/easy-view-menu.png)
 
+
+#### Contact Us Form
+  
+  - The simple contact us form so it enables users to interact with the business.
+
+  - Screenshot of Contact Us Form:
+
+  ![screenshot](documentation/wireframes/contact-us-desktop.png)
+
 ### Future Features
 
 - Gallery Page
     - Adding a Gallery page to display the food we provide on weddings and events
-- Contact Form 
-    - Add a contact form so customers can interact with our website with any questions they have
 - Booking System
     - Add a simple booking system so customers who are looking to come in to test our food for events or weddings can easily find a time slot.
 - Online Store
@@ -232,10 +238,11 @@ I would like to thank everyone who helped with the website, I was inspired with 
 | Source                                                                    | content                | Notes                                                                               |
 | ------------------------------------------------------------------------  | -----------------------| ------------------------------------------------------------------------------------|
 | [Markdown Builder](https://tim.2bn.dev/markdown-builder)                  | README and TESTING     | Tool to help generate the Markdown files                                            |
-| [Jolly Catering](https://jollycatering.co.uk/)                            | content and Ideas      | I got inspiration for my content and ideas from this website.                       |
-| [Love Running](https://learn.codeinstitute.net/)                          | Code                   | I used code from Love Running project to assist with the fundamentals of my project |
-
-  
+| [Jolly Catering](https://jollycatering.co.uk/)                            | Content and Ideas      | I got inspiration for my content and ideas from this website.                       |
+| [Love Running](https://learn.codeinstitute.net/)                          | Code                   | I used code from Love Running project to assist with the fundamentals of my project.|
+| [W3 Schools](https://www.w3schools.com/tags/att_meta_http_equiv.asp)      | Redirect Code          | I used code from W3 schools  to assist with creating a redirect page of my project. |
+| [W3 Schools](https://www.w3schools.com/howto/howto_css_contact_form.asp)  | Contact form           | I used w3 schools to assist with creating a contact form.                           |
+| [Stack Overflow](https://stackoverflow.com/questions/32267642/html-pattern-a-za-z50-is-saying-valid-input-is-invalid)  | Contact Form Pattern Code         | I used w3 schools to assist with creating a contact form.                           |  
 
 ### Media
 
@@ -257,5 +264,5 @@ I also used other assets which are linked below:
 
 - I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
 - I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
-- I would also like to thank the [Code Institute](https://codeinstitute.net) for providing me insipiration via the projecttutorials and content.
+- I would also like to thank the [Code Institute](https://codeinstitute.net) for providing me insipiration via the project tutorials and content.
 - I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
