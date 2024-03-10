@@ -3,6 +3,9 @@
   @import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
 
 /* Wildcard seleetor to overide deafult syles */
+/* Attribution: Love Running Project -  https://learn.codeinstitute.net/ - The Love Running project CSS code was used to assist with creating the style of my project */
+
+
 * {
     padding: 0;
     margin: 0;
@@ -11,6 +14,7 @@
 }
 
 /* General styles */
+/* Attribution: Love Running Project -  https://learn.codeinstitute.net/ - The Love Running project CSS code was used to assist with creating the style of my project */
 
 body {
     min-height: 100vh;
@@ -35,6 +39,7 @@ h1, h2, h3 {
 }
 
 /* Header */
+/* Attribution: Love Running Project -  https://learn.codeinstitute.net/ - The Love Running project CSS code was used to assist with creating the style of my project */
 
 header {
     background-color: #ffffff;
@@ -76,6 +81,7 @@ h1 {
 }
 
 /* Navbar styles with dropdown toggle */
+/* Attribution: Love Running Project -  https://learn.codeinstitute.net/ - The Love Running project CSS code was used to assist with creating the style of my project */
 
 nav {
     position: absolute;
@@ -89,6 +95,7 @@ nav {
 }
 
 /* Nav Toggle */
+/* Attribution: Love Running Project -  https://learn.codeinstitute.net/ - The Love Running project CSS code was used to assist with creating the style of my project */
 
 #nav-toggle:checked~nav{
     display: block;
@@ -103,6 +110,7 @@ nav {
 }
 
 /* Main Content */
+/* Attribution: Love Running Project -  https://learn.codeinstitute.net/ - The Love Running project CSS code was used to assist with creating the style of my project */
 
 main {
 
@@ -141,6 +149,7 @@ main {
 }
 
 /* Why Us & Menu section */
+/* Attribution: Love Running Project -  https://learn.codeinstitute.net/ - The Love Running project CSS code was used to assist with creating the style of my project */
 
 #background-on-owners {
     width: 90%;
@@ -188,6 +197,7 @@ main {
 }
 
 /* Services section */
+/* Attribution: Love Running Project -  https://learn.codeinstitute.net/ - The Love Running project CSS code was used to assist with creating the style of my project */
 
 #services {
     background: url('../images/indian-food-banner.jpg') no-repeat center/cover;
@@ -216,6 +226,7 @@ main {
 }
 
 /* Contact Us & Additional info */
+/* Attribution: Love Running Project -  https://learn.codeinstitute.net/ - The Love Running project CSS code was used to assist with creating the style of my project */
 
 #contact {
     background: url('../images/bg-pattern.jpg') no-repeat center/cover;
@@ -241,6 +252,7 @@ main {
 }
 
 /* Footer */
+/* Attribution: Love Running Project -  https://learn.codeinstitute.net/ - The Love Running project CSS code was used to assist with creating the style of my project */
 
 #social-media {
     text-align: center;
@@ -257,6 +269,7 @@ main {
 }
 
 /* Contact Us Form */
+/* Attribution: W3 Schools - How To Create a Contact Form - https://www.w3schools.com/howto/howto_css_contact_form.asp */
 
 .contact_us_body {
     margin: 0;
@@ -332,6 +345,7 @@ button:hover {
 }
 
 /* Media Query Tablets and larger (768px and up) */
+/* Attribution: Love Running Project -  https://learn.codeinstitute.net/ - The Love Running project CSS code was used to assist with creating the style of my project */
 
 @media screen and (min-width: 768px) {
 
@@ -365,6 +379,7 @@ button:hover {
 }
 
 /* Main content */
+/* Attribution: Love Running Project -  https://learn.codeinstitute.net/ - The Love Running project CSS code was used to assist with creating the style of my project */
 
 main {
 
@@ -374,6 +389,7 @@ main {
 }
 
 /* Hero */
+/* Attribution: Love Running Project -  https://learn.codeinstitute.net/ - The Love Running project CSS code was used to assist with creating the style of my project */
 
 #cover-text {
     width: 300px;
@@ -402,6 +418,7 @@ main {
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
+/* Attribution: Love Running Project -  https://learn.codeinstitute.net/ - The Love Running project CSS code was used to assist with creating the style of my project */
 
 @media screen and (min-width: 992px) {
     #menu a:hover{
