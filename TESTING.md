@@ -58,8 +58,8 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | ----       | --------------------------------------------------------------- | -------------------------------------------------------------  | ------------------- |
 | Home       | ![screenshot](documentation/testing/la-home-mobile.png)         | ![screenshot](documentation/testing/la-home-desktop.png)       | Some minor warnings |
 | Menu       | ![screenshot](documentation/testing/la-menu-mobile.png)         | ![screenshot](documentation/testing/la-menu-desktop.png)       | Some minor warnings |
-| Contact Us | ![screenshot](documentation/testing/la-contact-us-mobile.png)   | ![screenshot](documentation/testing/la-contact-us-mobile.png)  | Some minor warnings |
-| Thank You  | ![screenshot](documentation/testing/la-contact-us-mobile.png)   | ![screenshot](documentation/testing/la-contact-us-mobile.png)  | Some minor warnings |
+| Contact Us | ![screenshot](documentation/testing/la-contact-us-mobile.png)   | ![screenshot](documentation/testing/la-contact-us-desktop.png) | Some minor warnings |
+| Thank You  | ![screenshot](documentation/testing/la-thank_you-mobile.png)    | ![screenshot](documentation/testing/la-thank_you-desktop.png)  | Some minor warnings |
 
 The main issues I faced with the home screen for both desktop and mobile are the following: 
 
