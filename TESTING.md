@@ -40,11 +40,11 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
-| Device                | Home                                                              | Menu                                                             | Contact Us    | Contact Us                                                | 
+| Device                | Home                                                              | Menu                                                             | Contact Us    | Thank You                                                | 
 | --------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- | ------------- | --------------------------------------------------------- |
-| Galaxy S23 Ultra      | ![screenshot](documentation/testing/my-own-mobile-home.jpg)       | ![screenshot](documentation/testing/my-own-mobile-menu.jpg)      | ![screenshot]() | ![screenshot]()         |
-| Tablet (DevTools)     | ![screenshot](documentation/testing/responsive-tablet-home.png)   | ![screenshot](documentation/testing/responsive-tablet-menu.png)  | ![screenshot]() | ![screenshot](documentation/testing/responsive-desktop-tablet.png)      |
-| Desktop (DevTools)    | ![screenshot](documentation/testing/responsive-desktop-home.png)  | ![screenshot](documentation/testing/responsive-desktop-menu.png) | ![screenshot]() | ![screenshot](documentation/testing/responsive-desktop-contact_us.png)        |
+| Galaxy S23 Ultra      | ![screenshot](documentation/testing/my-own-mobile-home.jpg)       | ![screenshot](documentation/testing/my-own-mobile-menu.jpg)      | ![screenshot](documentation/testing/my-own-mobile-contact_us.jpg) | ![screenshot](documentation/testing/my-own-mobile-thank_you.jpg)         |
+| Tablet (DevTools)     | ![screenshot](documentation/testing/responsive-tablet-home.png)   | ![screenshot](documentation/testing/responsive-tablet-menu.png)  | ![screenshot](documentation/testing/responsive-tablet-contact_us.png) | ![screenshot](documentation/testing/responsive-tablet-thank_you.png)      |
+| Desktop (DevTools)    | ![screenshot](documentation/testing/responsive-desktop-home.png)  | ![screenshot](documentation/testing/responsive-desktop-menu.png) | ![screenshot](documentation/testing/responsive-desktop-contact_us.png) | ![screenshot](documentation/testing/responsive-desktop-thank_you.png)        |
 
 There are slight noticeable scaling issues on the contact_us.html page.
 
@@ -59,6 +59,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | Home       | ![screenshot](documentation/testing/la-home-mobile.png)         | ![screenshot](documentation/testing/la-home-desktop.png)       | Some minor warnings |
 | Menu       | ![screenshot](documentation/testing/la-menu-mobile.png)         | ![screenshot](documentation/testing/la-menu-desktop.png)       | Some minor warnings |
 | Contact Us | ![screenshot](documentation/testing/la-contact-us-mobile.png)   | ![screenshot](documentation/testing/la-contact-us-mobile.png)  | Some minor warnings |
+| Thank You  | ![screenshot](documentation/testing/la-contact-us-mobile.png)   | ![screenshot](documentation/testing/la-contact-us-mobile.png)  | Some minor warnings |
 
 The main issues I faced with the home screen for both desktop and mobile are the following: 
 
