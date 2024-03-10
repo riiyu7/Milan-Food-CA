@@ -32,9 +32,9 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 
 | Browser | Home                                                         | Menu                                                         | Contact Us                                                 | Thank You | Notes              |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------  | --------- | ------------------ |
-| Chrome  | ![screenshot](documentation/testing/browser-chrome-home.png) | ![screenshot](documentation/testing/browser-chrome-menu.png) | ![screenshot](documentation/testing/chrome-contact-us.png) | ![screenshot](documentation/testing/chrome-contact-us.png)      | Works as expected  |
-| Edge    | ![screenshot](documentation/testing/browser-edge-home.png)   | ![screenshot](documentation/testing/browser-edge-menu.png)   | ![screenshot](documentation/testing/edge-contact-us.png)   | ![screenshot](documentation/testing/chrome-contact-us.png)     | Works as expected  |
-| Brave   | ![screenshot](documentation/testing/browser-brave-home.png)  | ![screenshot](documentation/testing/browser-brave-menu.png)  | ![screenshot](documentation/testing/brave-contact-us.png)  | ![screenshot](documentation/testing/chrome-contact-us.png)      | Works as expected  |
+| Chrome  | ![screenshot](documentation/testing/browser-chrome-home.png) | ![screenshot](documentation/testing/browser-chrome-menu.png) | ![screenshot](documentation/testing/browser-chrome-contact-us.png) | ![screenshot](documentation/testing/browser-chrome-thank-you.png)      | Works as expected  |
+| Edge    | ![screenshot](documentation/testing/browser-edge-home.png)   | ![screenshot](documentation/testing/browser-edge-menu.png)   | ![screenshot](documentation/testing/browser-edge-contact-us.png)   | ![screenshot](documentation/testing/browser-edge-thank-you.png)     | Works as expected  |
+| Brave   | ![screenshot](documentation/testing/browser-brave-home.png)  | ![screenshot](documentation/testing/browser-brave-menu.png)  | ![screenshot](documentation/testing/browser-brave-contact-us.png)  | ![screenshot](documentation/testing/browser-brave-thank-you.png)      | Works as expected  |
 
 ## Responsiveness
 
@@ -42,9 +42,9 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 
 | Device                | Home                                                              | Menu                                                             | Contact Us    | Contact Us                                                | 
 | --------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- | ------------- | --------------------------------------------------------- |
-| Galaxy S23 Ultra      | ![screenshot](documentation/testing/my-own-mobile-home.jpg)       | ![screenshot](documentation/testing/my-own-mobile-menu.jpg)      | ![screenshot](documentation/testing/responsive-contact-us-s23.jpg) | ![screenshot](documentation/testing/responsive-contact-us-s23.jpg)         |
-| Tablet (DevTools)     | ![screenshot](documentation/testing/responsive-tablet-home.png)   | ![screenshot](documentation/testing/responsive-tablet-menu.png)  | ![screenshot](documentation/testing/responsive-contact-us-s23.jpg) | ![screenshot](documentation/testing/responsive-desktop-tablet.png)      |
-| Desktop (DevTools)    | ![screenshot](documentation/testing/responsive-desktop-home.png)  | ![screenshot](documentation/testing/responsive-desktop-menu.png) | ![screenshot](documentation/testing/responsive-contact-us-s23.jpg) | ![screenshot](documentation/testing/responsive-desktop-contact_us.png)        |
+| Galaxy S23 Ultra      | ![screenshot](documentation/testing/my-own-mobile-home.jpg)       | ![screenshot](documentation/testing/my-own-mobile-menu.jpg)      | ![screenshot]() | ![screenshot]()         |
+| Tablet (DevTools)     | ![screenshot](documentation/testing/responsive-tablet-home.png)   | ![screenshot](documentation/testing/responsive-tablet-menu.png)  | ![screenshot]() | ![screenshot](documentation/testing/responsive-desktop-tablet.png)      |
+| Desktop (DevTools)    | ![screenshot](documentation/testing/responsive-desktop-home.png)  | ![screenshot](documentation/testing/responsive-desktop-menu.png) | ![screenshot]() | ![screenshot](documentation/testing/responsive-desktop-contact_us.png)        |
 
 There are slight noticeable scaling issues on the contact_us.html page.
 
