@@ -47,25 +47,25 @@
         </nav>
     </header>
 
-    <!-- Main Content -->
+    <!-- Contact Form -->
 
-    <main>
+    <main class="contact_us_body">
         <div class="contact_us_form">
             <form action="thank_you.html">
 
                 <label for="first_name">First Name</label>
-                <input type="text" id="first_name" name="firstname" placeholder="Your First Name..." required>
+                <input type="text" id="first_name" name="firstname" pattern="[A-Za-z]+" placeholder="Please Input Your First Name...." title="Alphabetical Characters Only" required>
 
                 <label for="last_name">Last Name</label>
-                <input type="text" id="last_name" name="lastname" placeholder="Your Last Name..." required>
+                <input type="text" id="last_name" name="lastname" pattern="[A-Za-z]+" placeholder="Please Input Your Last Name...." title="Alphabetical Characters Only" required>
 
                 <label for="email_addresss">Emal Address</label>
-                <input type="text" id="email_addresss" name="email" placeholder="Your Email Address..." required>
+                <input type="email" id="email_addresss" name="email" placeholder="Your Email Address..." required>
 
                 <label for="message">Message</label>
                 <textarea id="subject" name="message" placeholder="Your Message.." style="height:200px" required></textarea>
                 
-                <input type="submit" value="Submit">
+                <button type="submit">Submit</button>
 
             </form>
         </div>
