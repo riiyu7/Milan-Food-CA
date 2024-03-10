@@ -22,7 +22,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 | File      | Jigsaw URL                                                                                                  | Screenshot                                                   | Notes           |
 | --------- | ----------------------------------------------------------------------------------------------------------- |------------------------------------------------------------- | --------------- |
-| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA)  | ![screenshot](documentation/testing/css-validation.png)      | Pass: No Errors |
+| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)  | ![screenshot](documentation/testing/css-validation.png)      | Pass: No Errors |
 
 
 ## Browser Compatibility
@@ -41,9 +41,12 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 
 | Device                | Home                                                              | Menu                                                             | Contact Us                                                | 
 | --------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------- |
-| Galaxy S23 Ultra      | ![screenshot](documentation/testing/my-own-mobile-home.jpg)       | ![screenshot](documentation/testing/my-own-mobile-menu.jpg)      | ![screenshot](documentation/testing/s23-resp.jpg)         |
-| Tablet (DevTools)     | ![screenshot](documentation/testing/responsive-tablet-home.png)   | ![screenshot](documentation/testing/responsive-tablet-menu.png)  | ![screenshot](documentation/testing/tablet-resp.png)      |
-| Desktop (DevTools)    | ![screenshot](documentation/testing/responsive-desktop-home.png)  | ![screenshot](documentation/testing/responsive-desktop-menu.png) | ![screenshot](documentation/testing/desk-resp.png)        |
+| Galaxy S23 Ultra      | ![screenshot](documentation/testing/my-own-mobile-home.jpg)       | ![screenshot](documentation/testing/my-own-mobile-menu.jpg)      | ![screenshot](documentation/testing/responsive-contact-us-s23.jpg)         |
+| Tablet (DevTools)     | ![screenshot](documentation/testing/responsive-tablet-home.png)   | ![screenshot](documentation/testing/responsive-tablet-menu.png)  | ![screenshot](documentation/testing/responsive-desktop-tablet.png)      |
+| Desktop (DevTools)    | ![screenshot](documentation/testing/responsive-desktop-home.png)  | ![screenshot](documentation/testing/responsive-desktop-menu.png) | ![screenshot](documentation/testing/responsive-desktop-contact_us.png)        |
+
+There are slight noticeable scaling issues on the contact_us.html page.
+
 
 
 ## Lighthouse Audit
@@ -54,7 +57,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | ----       | --------------------------------------------------------------- | -------------------------------------------------------------  | ------------------- |
 | Home       | ![screenshot](documentation/testing/la-home-mobile.png)         | ![screenshot](documentation/testing/la-home-desktop.png)       | Some minor warnings |
 | Menu       | ![screenshot](documentation/testing/la-menu-mobile.png)         | ![screenshot](documentation/testing/la-menu-desktop.png)       | Some minor warnings |
-| Contact Us | ![screenshot](documentation/testing/la-contact-us-mobile.png)   | ![screenshot](documentation/testing/la-contact-us-desktop.png) | Some minor warnings |
+| Contact Us | ![screenshot](documentation/testing/la-contact-us-mobile.png)   | ![screenshot](documentation/testing/la-contact-us-mobile.png)  | Some minor warnings |
 
 The main issues I faced with the home screen for both desktop and mobile are the following: 
 
