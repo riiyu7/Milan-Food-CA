@@ -13,7 +13,7 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 | ---------  | ----------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------- | --------------- |
 | Home       | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Findex.html)             | ![screenshot](documentation/testing/html-validation-home.png)         | pass: No errors |
 | Menu       | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Fmenu.html)              | ![screenshot](documentation/testing/html-validation-menu.png)         | pass: No errors |
-| Contact Us | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Fmenu.html%23contact-us) | ![screenshot](documentation/testing/html-validation-cu.png)           | pass: No errors |
+| Contact Us | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Fcontact_us.html)        | ![screenshot](documentation/testing/html-validation-cu.png)           | pass: No errors |
 | Thank You  | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Friiyu7.github.io%2FMilan-Food-CA%2Fthank_you.html)         | ![screenshot](documentation/testing/html-validation-thank-you.png)    | pass: No errors |
 
 
