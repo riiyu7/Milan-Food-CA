@@ -248,7 +248,7 @@ I would like to thank everyone who helped with the website, I was inspired with 
 | [Love Running](https://learn.codeinstitute.net/)                          | Code                   | I used code from Love Running project to assist with the fundamentals of my project.|
 | [W3 Schools](https://www.w3schools.com/tags/att_meta_http_equiv.asp)      | Redirect Code          | I used code from W3 schools  to assist with creating a redirect page of my project. |
 | [W3 Schools](https://www.w3schools.com/howto/howto_css_contact_form.asp)  | Contact form           | I used w3 schools to assist with creating a contact form.                           |
-| [Stack Overflow](https://stackoverflow.com/questions/32267642/html-pattern-a-za-z50-is-saying-valid-input-is-invalid)  | Contact Form Pattern Code         | I used w3 schools to assist with creating a contact form.                           |  
+| [Stack Overflow](https://stackoverflow.com/questions/32267642/html-pattern-a-za-z50-is-saying-valid-input-is-invalid)  | Contact Form Pattern Code         | I used stack overflow to assist with creating a contact form.                           |  
 
 ### Media
 
