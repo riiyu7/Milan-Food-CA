@@ -65,6 +65,9 @@ Menu
 Contact Us
   - ![screenshot](documentation/wireframes/contact-us-mobile.png)
 
+Thank You
+  - ![screenshot](documentation/wireframes/thank-you-mobile.png)
+
 </details>
 
 ### Tablet Wireframes
@@ -81,6 +84,9 @@ Menu
 
 Contact Us
   - ![screenshot](documentation/wireframes/contact-us-tablet.png)
+
+Thank You
+  - ![screenshot](documentation/wireframes/thank-you-tablet.png)
 
 </details>
 
@@ -100,6 +106,9 @@ Menu
 
 Contact Us
   - ![screenshot](documentation/wireframes/contact-us-desktop.png)
+
+Thank You
+  - ![screenshot](documentation/wireframes/thank-you-desktop.png)
 
 </details>
 
